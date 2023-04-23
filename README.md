@@ -18,8 +18,6 @@ You can download "Hole" from the App Store or Google Play Store for free and sta
 
 Join the adventure and challenge yourself to guide the lil' piggy past the scary holes and reach the finish line in "Hole" by No Nothing!
 
-
-
 Get The Game
 
 App Store: https://apps.apple.com/us/app/hole/id1659490258
