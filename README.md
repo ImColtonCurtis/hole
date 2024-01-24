@@ -10,15 +10,6 @@ Welcome to "hole," a thrilling mobile game developed by No Nothing! In this exci
 
 ## Support
 
-If you encounter any issues while playing "Hole," or if you have any questions or feedback, please feel free to contact our support team at nonothinggames@gmail.com. We're here to help and ensure you have the best gaming experience possible!
-## Download
+If you encounter any issues while playing "Hole," or if you have any questions or feedback, please feel free to contact me at imcoltoncurtis@gmail.com. I'm here to help and ensure you have the best gaming experience possible!
 
-You can download "Hole" from the App Store or Google Play Store for free and start your exciting journey today!
-
-Join the adventure and challenge yourself to guide the lil' piggy past the scary holes and reach the finish line in "Hole" by No Nothing!
-
-## Get The Game
-
-App Store: https://apps.apple.com/us/app/hole/id1659490258
-
-Google Play Store: https://play.google.com/store/apps/details?id=com.nonothing.hole
+Join the adventure and challenge yourself to guide the lil' piggy past the scary holes and reach the finish line in "Hole" by Colton Curtis!
