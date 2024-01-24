@@ -1,6 +1,6 @@
 # hole
 
-Welcome to "hole," a thrilling mobile game developed by No Nothing! In this exciting game, you'll guide a cute little piggy past scary holes in order to reach the finish line. Your mission is to avoid falling into the holes and survive the challenges along the way.
+Welcome to "hole," a thrilling mobile game developed by Colton Curtis! In this exciting game, you'll guide a cute little piggy past scary holes in order to reach the finish line. Your mission is to avoid falling into the holes and survive the challenges along the way.
 ## Features
 
     Easy-to-learn gameplay: Simply tap on either the left or right side of the screen to move the piggy and avoid the holes.
